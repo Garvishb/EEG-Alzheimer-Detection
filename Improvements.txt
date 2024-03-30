@@ -1,0 +1,11 @@
+Leaky ReLU
+Transformer
+smaller model because smaller dataset
+no need to upsample - try downsampling
+number of parameters
+scheduled learning rate - break it up into thirds 
+train your model a bunch of times on a bunch of different hyperparameters (change several hyp at a time and keep track)
+density estimation
+rnn - embeddings could be direct channels
+input embeddings - normalized inputs from different channels
+rnn -> lstm -> transformers
