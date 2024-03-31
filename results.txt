@@ -1,0 +1,31 @@
+
+cnn-25-30-35-40-45-3 model with 4 batch size and 100 epochs had a final validation accuracy of 93.885602 and a validation accuracy of 90.608466.
+The test accuracy was: 35.000000
+cnn-25-30-35-40-45-31 model with 64 batch size and 20 epochs had a final validation accuracy of 69.477318 and a validation accuracy of 67.857143.
+The test accuracy was: 50.000000
+dropout04 model with 64 batch size and 20 epochs had a final validation accuracy of 63.954635 and a validation accuracy of 62.301587.
+The test accuracy was: 17.500000
+dropout03 model with 64 batch size and 20 epochs had a final validation accuracy of 69.921105 and a validation accuracy of 67.989418.
+The test accuracy was: 37.500000
+dropout02 model with 64 batch size and 20 epochs had a final validation accuracy of 69.625247 and a validation accuracy of 67.019400.
+The test accuracy was: 25.000000
+dropout01 model with 64 batch size and 20 epochs had a final validation accuracy of 69.526627 and a validation accuracy of 68.165785.
+The test accuracy was: 42.500000
+rerun1 model with 64 batch size and 20 epochs had a final validation accuracy of 72.682446 and a validation accuracy of 71.516755.
+The test accuracy was: 25.000000
+rerun1 model with 16 batch size and 20 epochs had a final validation accuracy of 74.063116 and a validation accuracy of 71.604938.
+The test accuracy was: 37.500000
+rerun1 model with 64 batch size and 20 epochs had a final validation accuracy of 72.682446 and a validation accuracy of 71.516755.
+The test accuracy was: 25.000000
+rerun2 model with 16 batch size and 20 epochs had a final validation accuracy of 74.063116 and a validation accuracy of 71.604938.
+The test accuracy was: 37.500000
+rerun3 model with 64 batch size and 30 epochs had a final validation accuracy of 83.678501 and a validation accuracy of 80.643739.
+The test accuracy was: 60.000000
+rerun4 model with 16 batch size and 30 epochs had a final validation accuracy of 80.621302 and a validation accuracy of 78.218695.
+The test accuracy was: 30.000000
+rerun5 model with 64 batch size and 50 epochs had a final validation accuracy of 82.938856 and a validation accuracy of 80.599647.
+The test accuracy was: 37.500000
+rerun6 model with 16 batch size and 50 epochs had a final validation accuracy of 84.615385 and a validation accuracy of 82.142857.
+The test accuracy was: 40.000000
+5layerbestsgd model with 64 batch size and 20 epochs had a final validation accuracy of 73.717949 and a validation accuracy of 71.825397.
+The test accuracy was: 55.000000
