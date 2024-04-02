@@ -11,3 +11,27 @@ CNN_EEG_Classifier_3cnn_medium_kernel_leaky_downsample train_sgd_ce_step_lr mode
 The test accuracy was: 34.000000
 CNN_EEG_Classifier_3cnn_medium_kernel_leaky_downsample train_sgd_ce_lin_lr model with 127 batch size and 10 epochs had a final validation accuracy of 55.945122 and a validation accuracy of 55.751812.
 The test accuracy was: 33.000000
+CNN_EEG_Classifier_3cnn_medium_kernel_downsample train_sgd_ce model with 127 batch size and 10 epochs had a final validation accuracy of 43.445122 and a validation accuracy of 44.202899.
+The test accuracy was: 42.000000
+CNN_EEG_Classifier_3cnn_medium_kernel_downsample train_sgd_ce_step_lr model with 127 batch size and 10 epochs had a final validation accuracy of 47.713415 and a validation accuracy of 45.742754.
+The test accuracy was: 36.000000
+CNN_EEG_Classifier_3cnn_medium_kernel_downsample train_sgd_ce_lin_lr model with 127 batch size and 10 epochs had a final validation accuracy of 50.101626 and a validation accuracy of 47.780797.
+The test accuracy was: 45.000000
+CNN_EEG_Classifier_3cnn_medium_kernel train_sgd_ce model with 127 batch size and 10 epochs had a final validation accuracy of 61.839431 and a validation accuracy of 60.235507.
+The test accuracy was: 56.000000
+CNN_EEG_Classifier_3cnn_medium_kernel train_sgd_ce_step_lr model with 127 batch size and 10 epochs had a final validation accuracy of 66.463415 and a validation accuracy of 64.085145.
+The test accuracy was: 43.000000
+CNN_EEG_Classifier_3cnn_medium_kernel train_sgd_ce_lin_lr model with 127 batch size and 10 epochs had a final validation accuracy of 63.211382 and a validation accuracy of 60.869565.
+The test accuracy was: 52.000000
+CNN_EEG_Classifier_2cnn_downsample train_sgd_ce model with 127 batch size and 10 epochs had a final validation accuracy of 46.341463 and a validation accuracy of 44.157609.
+The test accuracy was: 34.000000
+CNN_EEG_Classifier_2cnn_downsample train_sgd_ce_step_lr model with 127 batch size and 10 epochs had a final validation accuracy of 47.560976 and a validation accuracy of 46.784420.
+The test accuracy was: 36.000000
+CNN_EEG_Classifier_2cnn_downsample train_sgd_ce_lin_lr model with 127 batch size and 10 epochs had a final validation accuracy of 44.410569 and a validation accuracy of 40.398551.
+The test accuracy was: 37.000000
+CNN_EEG_Classifier_2cnn train_sgd_ce model with 127 batch size and 10 epochs had a final validation accuracy of 44.105691 and a validation accuracy of 43.115942.
+The test accuracy was: 30.000000
+CNN_EEG_Classifier_2cnn train_sgd_ce_step_lr model with 127 batch size and 10 epochs had a final validation accuracy of 43.241870 and a validation accuracy of 42.164855.
+The test accuracy was: 30.000000
+CNN_EEG_Classifier_2cnn train_sgd_ce_lin_lr model with 127 batch size and 10 epochs had a final validation accuracy of 43.292683 and a validation accuracy of 42.210145.
+The test accuracy was: 30.000000
