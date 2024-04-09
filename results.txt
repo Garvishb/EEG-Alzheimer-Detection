@@ -1,36 +1,79 @@
-CNN_EEG_Classifier_3cnn_medium_kernel_leaky_downsample train_adam_ce model with 127 batch size and 10 epochs had a final validation accuracy of 37.906504 and a validation accuracy of 37.137681.
-The test accuracy was: 31.000000
-CNN_EEG_Classifier_3cnn_medium_kernel_leaky_downsample train_adam_ce_step_lr model with 127 batch size and 10 epochs had a final validation accuracy of 38.516260 and a validation accuracy of 37.681159.
-The test accuracy was: 34.000000
-CNN_EEG_Classifier_3cnn_medium_kernel_leaky_downsample train_adam_ce_lin_lr model with 127 batch size and 10 epochs had a final validation accuracy of 34.756098 and a validation accuracy of 34.601449.
+
+cnn-25-30-35-40-45-3 model with 4 batch size and 100 epochs had a final validation accuracy of 93.885602 and a validation accuracy of 90.608466.
 The test accuracy was: 35.000000
-CNN_EEG_Classifier_3cnn_medium_kernel_leaky_downsample train_sgd_ce model with 127 batch size and 10 epochs had a final validation accuracy of 35.619919 and a validation accuracy of 33.967391.
-The test accuracy was: 37.000000
-CNN_EEG_Classifier_3cnn_medium_kernel_leaky_downsample train_sgd_ce_step_lr model with 127 batch size and 10 epochs had a final validation accuracy of 54.878049 and a validation accuracy of 52.355072.
-The test accuracy was: 34.000000
-CNN_EEG_Classifier_3cnn_medium_kernel_leaky_downsample train_sgd_ce_lin_lr model with 127 batch size and 10 epochs had a final validation accuracy of 55.945122 and a validation accuracy of 55.751812.
-The test accuracy was: 33.000000
-CNN_EEG_Classifier_3cnn_medium_kernel_downsample train_sgd_ce model with 127 batch size and 10 epochs had a final validation accuracy of 43.445122 and a validation accuracy of 44.202899.
-The test accuracy was: 42.000000
-CNN_EEG_Classifier_3cnn_medium_kernel_downsample train_sgd_ce_step_lr model with 127 batch size and 10 epochs had a final validation accuracy of 47.713415 and a validation accuracy of 45.742754.
-The test accuracy was: 36.000000
-CNN_EEG_Classifier_3cnn_medium_kernel_downsample train_sgd_ce_lin_lr model with 127 batch size and 10 epochs had a final validation accuracy of 50.101626 and a validation accuracy of 47.780797.
-The test accuracy was: 45.000000
-CNN_EEG_Classifier_3cnn_medium_kernel train_sgd_ce model with 127 batch size and 10 epochs had a final validation accuracy of 61.839431 and a validation accuracy of 60.235507.
-The test accuracy was: 56.000000
-CNN_EEG_Classifier_3cnn_medium_kernel train_sgd_ce_step_lr model with 127 batch size and 10 epochs had a final validation accuracy of 66.463415 and a validation accuracy of 64.085145.
-The test accuracy was: 43.000000
-CNN_EEG_Classifier_3cnn_medium_kernel train_sgd_ce_lin_lr model with 127 batch size and 10 epochs had a final validation accuracy of 63.211382 and a validation accuracy of 60.869565.
-The test accuracy was: 52.000000
-CNN_EEG_Classifier_2cnn_downsample train_sgd_ce model with 127 batch size and 10 epochs had a final validation accuracy of 46.341463 and a validation accuracy of 44.157609.
-The test accuracy was: 34.000000
-CNN_EEG_Classifier_2cnn_downsample train_sgd_ce_step_lr model with 127 batch size and 10 epochs had a final validation accuracy of 47.560976 and a validation accuracy of 46.784420.
-The test accuracy was: 36.000000
-CNN_EEG_Classifier_2cnn_downsample train_sgd_ce_lin_lr model with 127 batch size and 10 epochs had a final validation accuracy of 44.410569 and a validation accuracy of 40.398551.
-The test accuracy was: 37.000000
-CNN_EEG_Classifier_2cnn train_sgd_ce model with 127 batch size and 10 epochs had a final validation accuracy of 44.105691 and a validation accuracy of 43.115942.
+cnn-25-30-35-40-45-31 model with 64 batch size and 20 epochs had a final validation accuracy of 69.477318 and a validation accuracy of 67.857143.
+The test accuracy was: 50.000000
+dropout04 model with 64 batch size and 20 epochs had a final validation accuracy of 63.954635 and a validation accuracy of 62.301587.
+The test accuracy was: 17.500000
+dropout03 model with 64 batch size and 20 epochs had a final validation accuracy of 69.921105 and a validation accuracy of 67.989418.
+The test accuracy was: 37.500000
+dropout02 model with 64 batch size and 20 epochs had a final validation accuracy of 69.625247 and a validation accuracy of 67.019400.
+The test accuracy was: 25.000000
+dropout01 model with 64 batch size and 20 epochs had a final validation accuracy of 69.526627 and a validation accuracy of 68.165785.
+The test accuracy was: 42.500000
+rerun1 model with 64 batch size and 20 epochs had a final validation accuracy of 72.682446 and a validation accuracy of 71.516755.
+The test accuracy was: 25.000000
+rerun1 model with 16 batch size and 20 epochs had a final validation accuracy of 74.063116 and a validation accuracy of 71.604938.
+The test accuracy was: 37.500000
+rerun1 model with 64 batch size and 20 epochs had a final validation accuracy of 72.682446 and a validation accuracy of 71.516755.
+The test accuracy was: 25.000000
+rerun2 model with 16 batch size and 20 epochs had a final validation accuracy of 74.063116 and a validation accuracy of 71.604938.
+The test accuracy was: 37.500000
+rerun3 model with 64 batch size and 30 epochs had a final validation accuracy of 83.678501 and a validation accuracy of 80.643739.
+The test accuracy was: 60.000000
+rerun4 model with 16 batch size and 30 epochs had a final validation accuracy of 80.621302 and a validation accuracy of 78.218695.
 The test accuracy was: 30.000000
-CNN_EEG_Classifier_2cnn train_sgd_ce_step_lr model with 127 batch size and 10 epochs had a final validation accuracy of 43.241870 and a validation accuracy of 42.164855.
-The test accuracy was: 30.000000
-CNN_EEG_Classifier_2cnn train_sgd_ce_lin_lr model with 127 batch size and 10 epochs had a final validation accuracy of 43.292683 and a validation accuracy of 42.210145.
-The test accuracy was: 30.000000
+rerun5 model with 64 batch size and 50 epochs had a final validation accuracy of 82.938856 and a validation accuracy of 80.599647.
+The test accuracy was: 37.500000
+rerun6 model with 16 batch size and 50 epochs had a final validation accuracy of 84.615385 and a validation accuracy of 82.142857.
+The test accuracy was: 40.000000
+5layerbestsgd model with 64 batch size and 20 epochs had a final validation accuracy of 73.717949 and a validation accuracy of 71.825397.
+The test accuracy was: 55.000000
+5layerbestsgd model with 64 batch size and 20 epochs had a final validation accuracy of 73.717949 and a validation accuracy of 71.825397.
+The test accuracy was: 55.000000
+3layermediumsgd model with 64 batch size and 20 epochs had a final validation accuracy of 42.899408 and a validation accuracy of 41.578483.
+The test accuracy was: 22.500000
+5layerdownsamplesgd model with 64 batch size and 20 epochs had a final validation accuracy of 72.879684 and a validation accuracy of 71.560847.
+The test accuracy was: 60.000000
+5layerbestadam model with 64 batch size and 20 epochs had a final validation accuracy of 42.948718 and a validation accuracy of 41.931217.
+The test accuracy was: 25.000000
+5layerdownsampleadam model with 64 batch size and 20 epochs had a final validation accuracy of 42.948718 and a validation accuracy of 41.931217.
+The test accuracy was: 25.000000
+5layerbestsgdstep model with 64 batch size and 20 epochs had a final validation accuracy of 76.183432 and a validation accuracy of 75.132275.
+The test accuracy was: 60.000000
+5layerdownsamplesgdstep model with 64 batch size and 20 epochs had a final validation accuracy of 72.485207 and a validation accuracy of 70.590829.
+The test accuracy was: 37.500000
+5layerbestadamstep model with 64 batch size and 20 epochs had a final validation accuracy of 42.948718 and a validation accuracy of 41.931217.
+The test accuracy was: 25.000000
+5layerdownsampleadamstep model with 64 batch size and 20 epochs had a final validation accuracy of 34.714004 and a validation accuracy of 34.567901.
+The test accuracy was: 37.500000
+5layerbestsgdlinear model with 64 batch size and 20 epochs had a final validation accuracy of 74.309665 and a validation accuracy of 73.368607.
+The test accuracy was: 62.500000
+5layerdownsamplesgdlinear model with 64 batch size and 20 epochs had a final validation accuracy of 72.140039 and a validation accuracy of 70.590829.
+The test accuracy was: 50.000000
+5layerbestadamlinear model with 64 batch size and 20 epochs had a final validation accuracy of 42.948718 and a validation accuracy of 41.931217.
+The test accuracy was: 25.000000
+5layerdownsampleadamlinear model with 64 batch size and 20 epochs had a final validation accuracy of 42.948718 and a validation accuracy of 41.931217.
+The test accuracy was: 25.000000
+splitalpha model with 64 batch size and 20 epochs had a final validation accuracy of 68.934911 and a validation accuracy of 66.446208.
+The test accuracy was: 12.500000
+splitbeta model with 64 batch size and 20 epochs had a final validation accuracy of 70.562130 and a validation accuracy of 68.386243.
+The test accuracy was: 32.500000
+splitgamma model with 64 batch size and 20 epochs had a final validation accuracy of 66.617357 and a validation accuracy of 63.536155.
+The test accuracy was: 40.000000
+splitdelta model with 64 batch size and 20 epochs had a final validation accuracy of 70.216963 and a validation accuracy of 66.534392.
+The test accuracy was: 50.000000
+splitcomb model with 64 batch size and 20 epochs had a final validation accuracy of 72.485207 and a validation accuracy of 66.754850.
+The test accuracy was: 22.500000
+splitalpha model with 64 batch size and 5 epochs had a final validation accuracy of 62.968442 and a validation accuracy of 62.742504.
+The test accuracy was: 60.000000
+splitbeta model with 64 batch size and 5 epochs had a final validation accuracy of 64.792899 and a validation accuracy of 62.257496.
+The test accuracy was: 7.500000
+splitgamma model with 64 batch size and 5 epochs had a final validation accuracy of 63.214990 and a validation accuracy of 60.052910.
+The test accuracy was: 62.500000
+splitdelta model with 64 batch size and 5 epochs had a final validation accuracy of 60.009862 and a validation accuracy of 57.495591.
+The test accuracy was: 42.500000
+splitcomb model with 64 batch size and 5 epochs had a final validation accuracy of 63.560158 and a validation accuracy of 60.361552.
+The test accuracy was: 42.500000
+splitcomb model with 64 batch size and 20 epochs had a final validation accuracy of 73.076923 and a validation accuracy of 69.135802.
+The test accuracy was: 50.000000
